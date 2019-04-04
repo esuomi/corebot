@@ -1,7 +1,7 @@
 {
-  "name": "easy-peasy-bot",
+  "name": "dotcorebot",
   "version": "1.0.0",
-  "description": "The awesomest bot evar.",
+  "description": "The bot that no one asked, no one needs but the bot we deserve.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/siili-core/corebot.git"
   },
   "keywords": [
     "slack",
     "bot"
   ],
-  "author": "D.E. Goodman-Wilson",
+  "author": "Esko Suomi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/siili-core/corebot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/siili-core/corebot#readme",
   "engines": {
     "node": "5.1.1"
   },
